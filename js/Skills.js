@@ -5,9 +5,9 @@ const skillLevels = {
     "JavaScript": 90,
     "jQuery": 75,
     "React": 85,
-    "Node.js": 75,
+    "Node.js": 60,
     "MySQL": 85,
-    "Java": 60,
+    "Java": 35,
     "Rscript": 90,
     "SAS": 75,
     "Premiere": 85
